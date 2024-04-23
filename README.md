@@ -7,7 +7,7 @@ Here to solve problems, create stable technologies, based on the experience of e
 
 
 
-#PROJECTS
+# PROJECTS
 
 ## AAFC
 Originally intended for use for user generated content delivery and speed, with an ability to stylize audio with limitations from the old days of computing with an added addition of file size saving.
