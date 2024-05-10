@@ -1,4 +1,4 @@
-![Architect Logo](https://architectenterprises.net/lgo.png)
+![Architect Logo](https://architectenterprises.net/alogo.svg)
 
 ## 📡 shown_powerful_stabilty_ 💿
 _**"I'm doing things off camera.. i guess"**_
